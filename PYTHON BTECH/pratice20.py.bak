@@ -1,0 +1,4 @@
+w="welcome to my world"
+ 
+for a in w:
+	print(a)

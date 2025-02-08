@@ -1,0 +1,8 @@
+#index()
+
+l=["hello","world"]
+
+a=l.index("hello")
+
+
+print(a)

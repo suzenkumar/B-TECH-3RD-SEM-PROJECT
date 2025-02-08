@@ -1,0 +1,6 @@
+#min()
+l=["Hello","world"]
+
+m=min(l)
+
+print(m)

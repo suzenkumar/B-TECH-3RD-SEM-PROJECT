@@ -1,0 +1,9 @@
+#format()
+w="welcome {} to {} World".format("hello",20);
+print(w)
+
+w="Welcome {1} to {0} World".format("hello",20);
+print(w)
+
+w="welcome {b:>10} to {a:^10} World".format(a=30,b=40)
+print(w)

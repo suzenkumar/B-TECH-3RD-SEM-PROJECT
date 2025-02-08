@@ -1,0 +1,10 @@
+#string
+s="Hello@123"
+print(s,type(s))
+s='''
+ Hello
+ welcome to world
+ ...
+
+
+ print(s)
